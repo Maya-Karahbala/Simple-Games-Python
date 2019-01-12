@@ -3,7 +3,7 @@
 <head>
 </head>
 <body  >
-<h2>Simple games using python and TKinter</h2>
+<h2>Simple games using Python and TKinter</h2>
 <h2>1- Connect-4 (hedef-4)</h2>
 <p>Point the cursor over the column you wish to. drop your piece in.<br>
 click to drop your piece<br>
